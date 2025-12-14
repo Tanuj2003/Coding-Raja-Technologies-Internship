@@ -128,3 +128,5 @@ if __name__ == "__main__":
     root = Tk()
     gui = BudgetTrackerGUI(root, tracker)
     root.mainloop()
+    #Thank you
+    #Ampolu Tanuj Sarma
